@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "C:/Users/12898/Documents/GitHub/kb-pcb-tutorial/MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "C:/Users/12898/Documents/GitHub/kb-pcb-tutorial/random-keyboard-parts.pretty")(options "")(descr ""))
+)
